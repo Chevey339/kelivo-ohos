@@ -1,16 +1,18 @@
-# kelivo
+<div align="center">
+  <img src="assets/app_icon.png" alt="Kelivo Icon" width="100" />
+  <h1>Kelivo for OpenHarmony</h1>
 
-A new Flutter project.
+English | [简体中文](README_ZH_CN.md)
+</div>
 
-## Getting Started
+## 📖 Project Overview
 
-This project is a starting point for a Flutter application.
+This is an OpenHarmony-adapted version of Kelivo. Some features are not yet implemented due to limitations in the current SDK version.
 
-A few resources to get you started if this is your first Flutter project:
+## 🔧 OpenHarmony Compatibility
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project has been adapted to run on OpenHarmony, providing core functionality on HarmonyOS devices.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  Made with ❤️ for OpenHarmony
+</p>
