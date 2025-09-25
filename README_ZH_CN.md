@@ -7,7 +7,7 @@
 
 ## 📖 项目简介
 
-Kelivo 的OpenHarmony 版本，有些功能因为鸿蒙的Flutter sdk版本过低的问题暂未实现。
+[Kelivo](https://github.com/Chevey339/kelivo) 的OpenHarmony 版本，有些功能因为鸿蒙的Flutter sdk版本过低的问题暂未实现。
 
 ## 🔧 OpenHarmony 兼容性
 

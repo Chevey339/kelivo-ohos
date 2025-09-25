@@ -7,7 +7,7 @@ English | [简体中文](README_ZH_CN.md)
 
 ## 📖 Project Overview
 
-This is an OpenHarmony-adapted version of Kelivo. Some features are pending implementation because of dependencies on an older version of the Flutter SDK for HarmonyOS.
+This is an OpenHarmony-adapted version of [Kelivo](https://github.com/Chevey339/kelivo). Some features are pending implementation because of dependencies on an older version of the Flutter SDK for HarmonyOS.
 
 ## 🔧 OpenHarmony Compatibility
 
